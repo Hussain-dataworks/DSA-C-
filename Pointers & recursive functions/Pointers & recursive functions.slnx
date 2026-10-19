@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Pointers &amp; recursive functions/Pointers &amp; recursive functions.vcxproj" />
+  <Project Path="Pointers &amp; recursive functions/Pointers &amp; recursive functions.vcxproj" Id="a6e21550-ed5c-4095-bb82-9f75135d2da8" />
 </Solution>

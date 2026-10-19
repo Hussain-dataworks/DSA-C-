@@ -139,7 +139,9 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Pointers &amp; recursive functions.cpp" />
+    <ClCompile Include="..\Pointers &amp; recursive functions.cpp" />
+    <ClCompile Include="..\Recursive EX1.cpp" />
+    <ClCompile Include="..\Recursive EX2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
