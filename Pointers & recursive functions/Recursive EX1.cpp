@@ -20,5 +20,5 @@ int main()
 	cout << "Enter exponent:";
 	cin >> exponent;
 	cout << "The value of base " << base << " raise to power exponent " << exponent << " is: " << power(base, exponent);
-
+	return 0;
 };
